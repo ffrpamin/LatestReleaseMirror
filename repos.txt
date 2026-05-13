@@ -20,3 +20,4 @@ KaringX/karing|\.dmg|\.exe
 
 hiddify/hiddify-app
 ajavadinezhad/zyrln
+ajavadinezhad/zyrln/releases/tag/v1.5.1-pre6
