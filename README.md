@@ -200,6 +200,36 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="hiddify--hiddify-app"></div>
+
+### hiddify--hiddify-app
+
+🔗 [source](https://github.com/hiddify/hiddify-app) – [<code><small>v4.1.1</small></code>](https://github.com/hiddify/hiddify-app/releases/tag/v4.1.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Hiddify-Android-arm7.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm7.apk.001) |
+| `Hiddify-Android-arm7.apk (part 2 of 2)` | 12.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm7.apk.002) |
+| `Hiddify-Android-arm64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.001) |
+| `Hiddify-Android-arm64.apk (part 2 of 2)` | 23.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-arm64.apk.002) |
+| `Hiddify-Android-universal.apk (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.001) |
+| `Hiddify-Android-universal.apk (part 2 of 4)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.002) |
+| `Hiddify-Android-universal.apk (part 3 of 4)` | 90.0 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.003) |
+| `Hiddify-Android-universal.apk (part 4 of 4)` | 53.8 MB | [⬇️ Download (Part 4)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-universal.apk.004) |
+| `Hiddify-Android-x86_64.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-x86_64.apk.001) |
+| `Hiddify-Android-x86_64.apk (part 2 of 2)` | 32.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Android-x86_64.apk.002) |
+| `Hiddify-Debian-x64.deb` | 40.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Debian-x64.deb) |
+| `Hiddify-Linux-x64-AppImage.AppImage` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.AppImage) |
+| `Hiddify-Linux-x64-AppImage.tar.gz` | 52.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Linux-x64-AppImage.tar.gz) |
+| `Hiddify-MacOS.dmg` | 79.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS.dmg) |
+| `Hiddify-MacOS-Installer.pkg` | 79.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-MacOS-Installer.pkg) |
+| `Hiddify-Windows-Portable-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.001) |
+| `Hiddify-Windows-Portable-x64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Portable-x64.zip.002) |
+| `Hiddify-Windows-Setup-x64.exe` | 34.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-Setup-x64.exe) |
+| `Hiddify-Windows-x64.msix` | 47.5 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/hiddify/hiddify-app/Hiddify-Windows-x64.msix) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
