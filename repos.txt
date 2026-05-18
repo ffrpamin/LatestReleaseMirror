@@ -21,3 +21,4 @@ KaringX/karing|\.dmg|\.exe
 hiddify/hiddify-app
 ajavadinezhad/zyrln
 kookoo1sabzy/BaleVPN
+therealaleph/MasterHttpRelayVPN-RUST
