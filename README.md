@@ -187,16 +187,16 @@ sha256sum FILE_NAME
 
 ### SagerNet--sing-box
 
-🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.12</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.12)
 
 | File | Size | Download |
 |------|------|----------|
-| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
-| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
-| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
-| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
-| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
-| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+| `SFA-1.13.12-arm64-v8a.apk` | 26.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.12-arm64-v8a.apk) |
+| `SFA-1.13.12-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.12-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.12-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-darwin-amd64.tar.gz) |
+| `sing-box-1.13.12-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-darwin-arm64.tar.gz) |
+| `sing-box-1.13.12-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-windows-amd64.zip) |
+| `sing-box-1.13.12-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.12-windows-amd64-legacy-windows-7.zip) |
 
 ---
 
@@ -245,21 +245,37 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="kookoo1sabzy--balevpn"></div>
+
+### kookoo1sabzy--BaleVPN
+
+🔗 [source](https://github.com/kookoo1sabzy/BaleVPN) – [<code><small>v1.3.2</small></code>](https://github.com/kookoo1sabzy/BaleVPN/releases/tag/v1.3.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `BaleVpn-1.3.2-release.apk` | 8.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/kookoo1sabzy/BaleVPN/BaleVpn-1.3.2-release.apk) |
+| `balevpn-1.3.2-linux-x64` | 76.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-linux-x64) |
+| `balevpn-1.3.2-macos-arm64` | 68.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-macos-arm64) |
+| `balevpn-1.3.2-macos-x64` | 78.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-macos-x64) |
+| `balevpn-1.3.2-win-x64.exe` | 66.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-win-x64.exe) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.24</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.24)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.29</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.29)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.24.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.24.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.24.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.24.apk) |
-| `mhrv-rs-android-universal-v1.9.24.apk` | 41.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.24.apk) |
-| `mhrv-rs-android-x86-v1.9.24.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.24.apk) |
-| `mhrv-rs-android-x86_64-v1.9.24.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.24.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-android-arm64-v8a-v1.9.29.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.29.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.29.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.29.apk) |
+| `mhrv-rs-android-universal-v1.9.29.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.29.apk) |
+| `mhrv-rs-android-x86-v1.9.29.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.29.apk) |
+| `mhrv-rs-android-x86_64-v1.9.29.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.29.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
 | `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
 | `mhrv-rs-macos-amd64.tar.gz` | 7.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ffrpamin/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
